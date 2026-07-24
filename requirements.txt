@@ -36,6 +36,8 @@ watchdog>=4.0.0                   # File-change watcher (improves Streamlit hot-
 # ── PDF & TXT Export ──────────────────────────────────────────────────────────
 reportlab>=4.2.0                  # PDF generation
 fpdf2>=2.7.9                      # Lightweight alternative PDF library
+langchain-chroma
+chromadb
 
 # ── Utilities ─────────────────────────────────────────────────────────────────
 python-dotenv>=1.0.0              # Load API keys from .env
